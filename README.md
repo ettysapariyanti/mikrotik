@@ -33,6 +33,8 @@ print(cekKeberadaanFile)
 
 ```
 
+setelah kode ini baru ,apabila hasilnya adalah TRUE baru dijalankan kode untuk eksekusi kueri SQLLite.
+
 
 
 
