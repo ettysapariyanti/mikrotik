@@ -9,6 +9,8 @@ Perintah ini untuk melakukan reset settingan / konfigurasi sehingga sangat bersi
 
 ```
 
+#Isi File untuk memeriksa keberadaan file SQLite, tujuannya adalah untuk memastikan adanya database SQLite dari kumpulan  file yng ada: 
+
 
 
 
